@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Java
+*.class
+*.jar
+/target/
+/build/
+
+# macOS
+.DS_Store
